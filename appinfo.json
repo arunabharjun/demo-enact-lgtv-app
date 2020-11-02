@@ -1,0 +1,10 @@
+{
+  "id": "com.demoenacttv.app",
+  "version": "0.0.1",
+  "vendor": "arunabharjun.com",
+  "type": "web",
+  "main": "index.html",
+  "title": "Arunabh Arjun",
+  "icon": "./assets/icon.png",
+  "largeIcon": "./assets/largeIcon.png"
+}
